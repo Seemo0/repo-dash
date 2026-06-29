@@ -10,6 +10,14 @@ Next.js front-end application to browse code repositories.
 ## Installation
 
 ```bash
+git clone https://github.com/Seemo0/repo-dash.git
+```
+
+```bash
+cd repo-dash
+```
+
+```bash
 npm install
 ```
 
